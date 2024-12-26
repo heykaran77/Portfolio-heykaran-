@@ -34,7 +34,7 @@ body {
   pointer-events: none;
   height: 100%;
   width: 100%;
-  background: url(/assets/grain-slow.gif);
+  background: url(./assets/grain-slow.gif);
   z-index: 9999;
   opacity: 0.05;
 }
