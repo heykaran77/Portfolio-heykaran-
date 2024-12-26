@@ -72,6 +72,9 @@ main {
   font-weight: 800;
   font-family: "samakaran";
 }
+.logo span {
+  font-size: 1.9vw;
+}
 .nav i {
   font-size: 2vw;
   cursor: pointer;
